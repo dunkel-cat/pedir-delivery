@@ -1,5 +1,18 @@
 # Pedir-delivery
-Esta es una prueba de mi diagrama de flujo. Este diagrama describe la secuencia lógica para hacer un delivery. El diagrama se basa en el diagrama de flujo realizado en clase y se muestra en una lista ordenada escrita en pseudocódigo que, además, se mostrará en una imagen como modelo gráfico del pseudocodigo.
+Esta es una prueba de mi diagrama de flujo. Este diagrama describe la secuencia lógica para hacer un delivery. El diagrama se basa en el diagrama de flujo realizado en clase y se muestra en una lista ordenada escrita en pseudocódigo que, además, se mostrará en una imagen como modelo gráfico del pseudocodigo. En el contexto de que nosotros como usuarios ingresamos el número telefonico para poder llamar al restaurante el paso 6 se convierte en una entrada.
+
+new messages
+[5:13]  
+Si en el paso 7 elegimos no
+
+[5:13]  
+elegimos poner una subrutina
+
+[5:13]  
+para no continuar
+
+[5:13]  
+con un bucle indefinido
 
 ## Pseudocodigo
 1. inicio
@@ -7,8 +20,8 @@ Esta es una prueba de mi diagrama de flujo. Este diagrama describe la secuencia 
 3. buscar opciones
 4. elegir pedido
 5. Buscar número de restaurante
-6. Marcar el número de restaurante
-7. ¿Si contesta si? ¿Si contesta no?----- colgar---- salir a comer
+6. Ingresar el número de restaurante
+7. ¿Si contesta si? ¿Si contesta no?-----> colgar----> salir a comer
 8. realizar pedido.
 9. Dar datos
 10. Confirmar
@@ -16,7 +29,7 @@ Esta es una prueba de mi diagrama de flujo. Este diagrama describe la secuencia 
 12. esperar 
 13. pedido
 14. pagar
-15. Salida
+15. fin
 
 
 
